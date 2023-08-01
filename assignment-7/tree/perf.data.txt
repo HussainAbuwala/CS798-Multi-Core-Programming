@@ -1,0 +1,3255 @@
+benchmark 749440 1058452.181758:          1 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.181778:          1 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.181784:          3 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.181790:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.181809:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.182015:        272 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.182267:        280 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.182531:        280 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.182771:        279 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.183039:        281 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.183327:        280 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.183603:        277 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.183902:        275 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.184192:        256 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.184478:        253 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.184744:        250 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.185007:        249 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.185251:        249 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.185492:        250 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.185747:        252 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.186068:        252 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.186317:        246 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.186589:        246 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.186853:        245 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.187121:        245 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.187421:        244 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.187661:        240 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.187920:        242 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.188236:        242 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.188509:        237 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.188784:        236 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.189053:        235 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.189331:        234 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.189576:        232 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.189831:        233 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.190106:        233 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.190408:        232 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.190675:        228 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.190931:        227 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.191199:        227 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.191457:        226 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.191706:        226 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.191984:        226 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.192294:        224 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.192549:        220 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.192842:        220 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.193126:        217 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.193411:        215 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.193685:        213 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.193926:        212 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.194187:        213 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.194421:        213 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.194713:        215 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.194971:        212 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.195262:        212 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.195524:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.195776:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.196037:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.196302:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.196580:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.196858:        209 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.197090:        208 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.197373:        210 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.197687:        208 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.197958:        204 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.198199:        203 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.198462:        204 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.198703:        204 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.198974:        205 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.199229:        204 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.199519:        204 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.199834:        202 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.200095:        198 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.200400:        198 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.200619:        195 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.200899:        199 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.201152:        198 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.201426:        198 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.201686:        197 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.202011:        197 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.202219:        193 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.202512:        198 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.202763:        196 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.203057:        196 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.203336:        194 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.203609:        193 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.203847:        192 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.204153:        194 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.204420:        191 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.204700:        191 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.204984:        190 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.205219:        188 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.205498:        190 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.205799:        189 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.206098:        186 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.206346:        183 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.206635:        184 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.206912:        182 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.207162:        181 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.207395:        181 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.207686:        183 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.207894:        181 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.208171:        186 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.208414:        185 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.208749:        186 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.209035:        181 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.209270:        179 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.209587:        181 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.209820:        177 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.210085:        179 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.210356:        179 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.210652:        178 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.210916:        176 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.211156:        176 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.211464:        177 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.211724:        174 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.211956:        174 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.212299:        176 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.212590:        171 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.212899:        169 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.213134:        166 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.213375:        168 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.213617:        169 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.213852:        170 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.214193:        172 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.214426:        168 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.214713:        170 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.214976:        169 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.215270:        169 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.215555:        167 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.215792:        166 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.216096:        167 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.216352:        165 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.216649:        165 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.216904:        163 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.217153:        163 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.217417:        163 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.217691:        163 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.217992:        162 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.218285:        160 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.218531:        158 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.218854:        159 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.219081:        156 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.219365:        158 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.219604:        157 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.219900:        158 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.220211:        156 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.220381:        153 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.220683:        162 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.221011:        160 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.221346:        156 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.221616:        152 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.221886:        152 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.222116:        152 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.222351:        154 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.222638:        156 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.222877:        155 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.223200:        156 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.223489:        153 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.223808:        152 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.224094:        149 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.224387:        148 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.224631:        147 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.224997:        148 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.225250:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.225536:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.225773:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.226038:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.226324:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.226553:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.226797:        144 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.227048:        145 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.227340:        145 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.227625:        144 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.227853:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.228155:        145 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.228383:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.228715:        145 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.228938:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.229234:        145 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.229507:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.229727:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.230058:        146 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.230241:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.230579:        150 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.230926:        146 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.231196:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.231440:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.231697:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.231974:        143 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.232305:        142 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.232642:        139 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.232938:        136 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.233203:        135 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.233428:        135 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.233716:        137 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.234028:        136 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.234342:        134 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.234594:        132 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.234947:        132 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.235239:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.235416:        127 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.235705:        134 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.236036:        133 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.236302:        130 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.236626:        130 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.236874:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.237147:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.237436:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.237734:        127 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.238031:        126 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.238311:        125 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.238580:        125 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.238853:        125 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.239066:        125 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.239328:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.239596:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.239819:        128 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.240170:        130 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.240434:        127 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.240824:        127 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.241138:        123 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.241408:        121 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.241689:        121 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.242029:        121 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.242253:        118 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.242454:        120 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.242686:        124 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.243097:        126 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.243458:        121 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.243722:        118 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.244030:        118 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.244292:        116 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.244543:        116 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.244949:        116 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.245202:        112 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.245522:        112 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.245799:        110 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.246020:        110 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.246344:        112 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.246585:        110 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.246853:        111 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.247103:        111 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.247465:        111 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.247743:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.247937:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.248270:        112 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.248626:        110 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.248969:        107 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.249273:        105 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.249574:        104 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.249774:        103 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.250067:        107 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.250286:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.250622:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.250948:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.251125:        104 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.251454:        110 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.251730:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.252127:        107 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.252366:        103 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.252584:        104 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.252927:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.253119:        104 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.253437:        108 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.253779:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.253987:        104 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.254380:        107 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.254593:        103 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.254891:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.255262:        105 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.255429:        102 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.255755:        109 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.256115:        106 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.256573:        103 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.257018:         98 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.257226:         94 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.257625:         97 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.257856:         94 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.258050:         95 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.258372:         99 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.258708:         97 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.258947:         95 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.259181:         96 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.259451:         97 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.259872:         97 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.260108:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.260524:         94 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.260871:         91 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.261180:         89 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.261415:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.261600:         89 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.261894:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.262483:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.262876:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.263123:         85 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.263337:         86 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.263573:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.263886:         89 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.264129:         87 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.264519:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.264669:         85 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.264836:         92 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.265326:         98 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.265593:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.265937:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.266138:         91 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.266599:         94 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.266823:         90 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.267279:         92 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.267541:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.267984:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.268284:         84 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.268593:         83 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.268991:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.269264:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.269635:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.269859:         77 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.270082:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.270426:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.270622:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.270892:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.271094:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.271547:         85 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.271780:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.271997:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.272485:         84 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.272729:         80 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.272939:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.273124:         83 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.273650:         87 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.273984:         83 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.274236:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.274912:         82 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.275121:         77 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.275351:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.275694:         80 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.276059:         78 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.276268:         76 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.276501:         78 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.277191:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.277425:         74 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.277665:         75 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.277833:         76 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.278244:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.278532:         78 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.278772:         78 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.279041:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.279951:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.280289:         72 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.280512:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.281031:         72 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.281345:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.281551:         68 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.281676:         70 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.281890:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.282282:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.282666:         79 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.283005:         77 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.283552:         76 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.283873:         72 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.284142:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.284524:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.284780:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.285158:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.285422:         67 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.285901:         67 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.286386:         64 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.286897:         61 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.287044:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.287851:         63 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.288116:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.288275:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.288401:         63 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.288838:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.289264:         68 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.289683:         66 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.289924:         64 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.290116:         65 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.290883:         68 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.290937:         64 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.291458:         93 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.291760:         88 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.292180:         84 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.292956:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.293477:         75 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.293897:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.294053:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.294410:         75 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.294766:         73 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.295206:         72 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.295663:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.295967:         66 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.296889:         65 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.297607:         60 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.298141:         56 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.298433:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.298747:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.298833:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.299625:         67 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.299704:         63 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.300373:         76 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.300806:         71 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.301135:         68 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.301522:         67 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.302022:         65 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.302367:         62 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.302782:         61 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.303081:         59 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.303304:         59 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.303516:         60 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.303775:         62 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.304532:         61 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.304883:         57 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.305146:         56 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.305263:         56 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.305876:         64 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.307369:         61 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.307773:         56 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.307893:         55 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.308418:         60 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.308514:         57 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.309373:         69 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.309453:         64 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.310211:         81 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.310998:         75 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.311806:         70 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.312506:         62 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.312828:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.313848:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.314157:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.314945:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.315125:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.315402:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.315774:         54 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.316099:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.316378:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.316928:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.317732:         49 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.317869:         46 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.318090:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.318573:         52 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.318957:         50 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.319150:         49 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.320152:         49 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.321006:         46 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.321678:         43 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.321976:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.322184:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.323018:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.323240:         40 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.323510:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.323982:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.326324:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.326350:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.326976:         76 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.328275:         66 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.328874:         61 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.330558:         58 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.332139:         49 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.332814:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.333307:         43 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.333513:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.334137:         43 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.336596:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.337002:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.337076:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.337250:         47 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.337771:         50 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.338999:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.339703:         44 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.339987:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.340572:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.341209:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.342032:         37 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.342276:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.342377:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.342763:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.343249:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.343375:         40 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.344452:         43 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.345049:         40 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.345425:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.345573:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.347171:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.347231:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.348563:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.349090:         47 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.350177:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.350493:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.351312:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.353036:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.353102:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.353486:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.354757:         47 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.355092:         44 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.357285:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.358246:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.358276:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.359188:         70 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.365039:         53 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.365993:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.366639:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.367333:         43 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.368697:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.369887:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.369931:         34 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.373719:         49 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.374505:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.374850:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.378305:         39 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.378620:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.378936:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.379316:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749440 1058452.380252:         34 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.382329:          1 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.382336:          1 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.382341:          5 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.382346:         38 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.382449:        258 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.494197:         23 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.499181:         22 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.499277:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.499285:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.513384:         77 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.523536:         62 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.528914:         50 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.530581:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.541418:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.546991:         35 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.562547:         26 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.579969:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.579991:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.589875:         35 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.600771:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.633129:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.633156:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.643437:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.643470:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.647099:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.696462:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.696488:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.697462:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.701105:         33 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.722627:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.759744:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.759769:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.764032:         28 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.789870:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.789898:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.812578:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.812603:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.823845:         37 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.829630:         31 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.836032:         27 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.841933:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.856031:         17 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.856768:         16 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.856829:         16 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.868494:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.868554:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.876089:         24 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.876132:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.905420:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.905475:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.934858:         19 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.947115:         16 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.947126:         16 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.963125:         40 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.976030:         31 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058452.978371:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.009848:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.009865:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.024030:         33 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.041726:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.049870:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.049894:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.069191:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.069237:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.095876:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.097063:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.100843:         22 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.139161:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.139192:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.139223:         26 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.162711:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.162774:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.202940:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.202983:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.212771:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.212852:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.220629:         27 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.227258:         23 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.234963:         19 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.237665:         17 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.255764:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.255797:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.258235:         24 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.288811:         15 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.288851:         15 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.299444:         21 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.315247:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.315295:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.335552:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.335604:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.344210:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.344234:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.354615:         40 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.363997:         34 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.364093:         31 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.368229:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.368804:         32 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.373648:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.375813:         27 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392144:         18 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+
+benchmark 749445 1058453.392173:         18 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392179:         35 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392193:        222 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392264:        686 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392460:        903 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392671:        935 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.392891:        957 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.393096:        974 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.393299:       1001 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.393502:       1031 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.393702:       1061 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.393918:       1094 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.394129:       1116 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.394348:       1142 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.394582:       1163 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.394837:       1173 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.570217:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.570252:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.585767:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.585808:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.591759:         29 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.608329:         19 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.608349:         19 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.608417:         47 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.618381:         51 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.655256:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.655324:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.674827:         24 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.674870:         24 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.715231:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.715297:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.761251:         14 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.765203:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.765222:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.776023:         29 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.796343:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.807908:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.812022:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.812079:         15 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.817269:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.817320:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.821363:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.821413:         26 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.826664:         37 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.858317:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.858329:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.870492:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.891669:         33 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.896022:         30 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.899840:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.904931:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.904951:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.938795:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.938815:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.946445:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.960488:         32 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.977476:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058453.977513:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.002890:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.002925:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.002934:         46 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.011531:        159 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.062242:         41 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.079264:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.083519:         26 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.093648:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.100021:         19 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.103493:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.103522:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.125566:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.125611:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.138704:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.138731:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.143387:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.174852:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.174898:         22 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.182883:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.202259:         20 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.232190:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.232208:         14 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.232765:         37 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.234276:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.240202:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.267080:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.267110:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.292019:         22 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.294751:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.305389:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.305429:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.305466:         28 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.312307:         41 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.325948:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.333787:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.333815:         22 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.337203:         40 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.351792:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.386782:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.386813:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.405176:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.405214:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.411278:         33 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.411344:         30 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.418395:         34 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.418539:         31 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.437134:         23 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.452667:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.452710:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.467477:         25 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.467555:         25 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.476257:         26 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.498011:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.498054:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.504311:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.512253:         21 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.512271:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.516831:         47 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.549656:         23 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.549732:         23 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.560040:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.583218:         19 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.583290:         19 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.605641:         17 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.605683:         17 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.605718:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.615580:         41 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.625209:         31 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.667840:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.667852:         16 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.760598:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.760609:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.766743:         48 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.780112:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.780170:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.791697:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.794191:         32 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.819988:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.820052:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.851366:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.851397:         18 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.852736:         31 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.852753:         29 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.883431:         42 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.885094:         38 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.888490:         32 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.922495:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.922520:         18 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.925302:         36 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.937318:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.937349:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.937365:         50 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.949806:         98 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.972585:         50 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.985567:         37 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058454.985638:         37 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.007298:         31 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.017803:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.035060:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.035093:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.038444:         34 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.038465:         31 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.041462:         65 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.054916:         48 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.057842:         44 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.060644:         37 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.061205:         34 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.061481:         33 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.075854:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.075903:         28 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.082992:         35 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.084245:         30 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.091440:         26 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.091496:         24 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.101772:         27 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.104011:         27 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.113509:         20 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.125814:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.125852:         17 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.125888:         29 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.133379:         42 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.145306:         29 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.171926:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.171971:         19 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.193509:         20 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.196011:         20 tx-abort:pp: 
+	    556decbf8bd3 ExternalBST::contains+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.221436:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.221473:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.226050:         23 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.226127:         22 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.247334:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.247388:         21 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.256509:         25 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.256543:         25 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.257449:         45 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.277769:         27 tx-abort:pp: 
+	    556decbf8fe3 ExternalBST::insertIfAbsent+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.318483:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.318494:         14 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.318503:         49 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.339586:        133 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
+benchmark 749445 1058455.381146:         39 tx-abort:pp: 
+	    556decbf9173 ExternalBST::erase+0x23 (/home/hsabuwal/a7/tree/benchmark)
+	               0 [unknown] ([unknown])
+
